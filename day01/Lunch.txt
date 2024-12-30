@@ -1,0 +1,4 @@
+.txt - 메모장
+.excel - 엑셀 파일
+.pptx - 파워포인트 파일
+.html - html 파일
