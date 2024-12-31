@@ -1,0 +1,10 @@
+.photo{
+    margin: 40px 40px 40px 40px;
+    border-radius: 100%;
+    display: block;
+}
+.name{
+    font-size: 40px;
+    width: 487px;
+    text-align: center;
+}

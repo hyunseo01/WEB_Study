@@ -1,0 +1,16 @@
+div{
+    color: white;
+    width: 300px;
+    margin: 15px 10px 15px 10px;
+    border-radius: 35px;
+    padding: 20px 30px 20px 30px;
+}
+.blue{
+    background-color: blue;
+}
+.black{
+    background-color: black;
+}
+i{
+    width: 230px; text-align: right;
+}

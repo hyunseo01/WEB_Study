@@ -1,0 +1,21 @@
+.redbox{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.bluebox{
+    background-color: #3E63DD;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+.greenbox{
+    background-color: #46A758;
+    width: 300px;
+    height: 300px;
+}
+.yellobox{
+    background-color: yellow;
+    width: 30%;
+    height: 30%;
+}
