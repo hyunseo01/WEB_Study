@@ -17,7 +17,7 @@
     object-fit: cover;
 }
 .fontset1{
-    font-size: 6px;
+    font-size: 5px;
     font-weight: 600;
     padding: 1px;
 }
@@ -28,12 +28,12 @@
     padding-top: 2px;
 }
 .fontset3{
-    font-size: 5px;
+    font-size: 4px;
     font-weight: 500;
     padding: 1px;
 }
 .fontset4{
-    font-size: 8px;
+    font-size: 6px;
     font-weight: 700;
     padding: 1px;
 }
