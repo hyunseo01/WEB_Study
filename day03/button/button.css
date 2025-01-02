@@ -1,0 +1,32 @@
+.box{
+    border: solid 1px;
+    padding: 5px 0px;
+    border-radius: 3px;
+    font-size: x-small;
+    border: solid none;
+}
+.c{
+    border-radius: 25px;
+}
+.b_1{
+    width: 50px;
+}
+.b_2{
+    width: 70px;
+    padding: 1%;
+}
+.b_3{
+    width: 150px;
+    margin-right: 20px;
+    padding: 1.1%;
+}
+.blue{
+    background-color: blue;
+    color: white;
+    border: solid blue;
+}
+.yello{
+    background-color: yellow;
+    color: black;
+    border: solid 1px yellow;
+}

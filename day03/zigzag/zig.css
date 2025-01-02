@@ -1,0 +1,48 @@
+.main{
+    margin: 20px;
+}
+.title{
+    margin-left: 1px;
+    margin-bottom: 5px;
+    font-size: 10px;
+    font-weight: 1000;
+}
+.card{
+    width: 100px;
+    height: 150px;
+}
+.card > .size{
+    width: 100%;
+    height: 80%;
+    object-fit: cover;
+}
+.fontset1{
+    font-size: 6px;
+    font-weight: 600;
+    padding: 1px;
+}
+.fontset2{
+    font-size: 3px;
+    font-weight: 200;
+    padding-left: 1px;
+    padding-top: 2px;
+}
+.fontset3{
+    font-size: 5px;
+    font-weight: 500;
+    padding: 1px;
+}
+.fontset4{
+    font-size: 8px;
+    font-weight: 700;
+    padding: 1px;
+}
+.spanset1{
+    background-color: plum;
+    padding: 1px;
+
+}
+.spanset2{
+    background-color: rgb(202, 201, 201);
+    padding: 1px;
+}
