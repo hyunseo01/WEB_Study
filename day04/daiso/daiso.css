@@ -1,0 +1,11 @@
+.card{
+    display: inline-block;
+}
+.img{
+    border-radius: 9999px;
+    
+}
+.font1{
+    margin-left: 16px;
+    margin-top: 3px;
+}

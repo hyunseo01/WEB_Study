@@ -1,0 +1,22 @@
+.container{
+    width: 1000px;
+    height: 1000px;
+    border: solid red 1px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    /* 주측 메인측 기준으로 정렬 */
+    justify-content: center;
+    /* 교차축 기준으로 정렬 */
+    align-items: center;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    border: solid blue 1px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    padding-top: 22px;
+    background-color: aliceblue;
+}

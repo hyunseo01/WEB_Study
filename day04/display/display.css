@@ -1,0 +1,13 @@
+.block{
+    background-color: red;
+}
+.lnline{
+    background-color: blue;
+}
+.card{
+    display: none;
+    width: 100px;
+    height: 100px;
+    border: solid white 1px;
+    background-color: green;
+}

@@ -1,0 +1,50 @@
+.maintitle{
+    height: 30px;
+    font-size: 15px;
+    font-weight: 900;
+}
+.background1{
+    background-image: url("1.jpg");
+}
+.background2{
+    background-image: url("2.jpg");
+}
+.background3{
+    background-image: url("3.jpg");
+}
+.card{
+    width: 150px;
+    height: 230px;
+    display: block;
+    margin: 0px 0px 5px 0px;
+    color: white;
+    background-size: cover;
+    border-radius: 12px;
+    padding: 15px;
+    display: inline-block;
+    background-position: 50% 50%;
+}
+.redbox{
+    width: 35px;
+    height: 15px;
+    border: solid rgb(255, 82, 82) 0.8px;
+    font-size: 5px;
+    border-radius: 20px;
+    margin-top: 35px;
+    text-align: center;
+    padding: 1;
+    background: none;
+    color: rgb(255, 82, 82);
+    margin-bottom: 15px;
+}
+.text{
+    font-size: 15px;
+    font-weight: 550;
+    line-height: 23px;
+}
+.info{
+    margin-top: 33px;
+    font-size: 6px;
+    opacity: 0.6;
+    margin-left: 2px;
+}

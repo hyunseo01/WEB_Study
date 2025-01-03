@@ -1,0 +1,72 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 100vh;
+}
+.box{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.c1{
+    background-color: cyan;
+}
+.c2{
+    background-color: coral;
+}
+.c3{
+background-color: cornflowerblue;
+}
+.c4{
+background-color: cornsilk;
+}
+.c5{
+background-color: crimson;
+}
+.c6{
+background-color: darkblue;
+}
+.c7{
+background-color: darkgoldenrod;
+}
+.c8{
+background-color: darkgray;
+}
+.c9{
+background-color: deepskyblue;
+}
+.c10{
+background-color: forestgreen;
+}
+.c11{
+background-color: firebrick;
+}
+.c12{
+background-color: gold;
+}
+.c13{
+background-color: ivory;
+}
+.c14{
+background-color: blue;
+}
+.c15{
+background-color: black;
+}
+.c16{
+background-color: fuchsia;
+}
+.c17{
+background-color: orange;
+}
+.c18{
+background-color: darkgray;
+}
+.c19{
+background-color: antiquewhite;
+}
+.c20{
+background-color: rgb(5, 5, 5);
+}
