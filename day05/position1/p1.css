@@ -1,0 +1,24 @@
+.card{
+    width: 100px;
+    height: 150px;
+    background-image: url("90.jpg");
+    background-size: cover;
+    margin: 30px;
+    border-radius: 1px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.cir{
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    opacity: 60%;
+    border-radius: 100%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+    top: 140px;
+    left: 90px;
+}

@@ -1,0 +1,50 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.card{
+    width: 300px;
+    height: 300px;
+}
+.color1{
+    background-color: green;
+}
+.color2{
+    background-color: blue;
+}
+.color3{
+    background-color: orange;
+}
+.color4{
+    background-color: red;
+}
+.minibox{
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+}
+.position1{
+    position: relative;
+    top: 20px;
+    left: 50px;
+}
+.position2{
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+.position3{
+    position: relative;
+    top: 50%;
+    left: 50%;
+}
+.position4{
+    position: fixed;
+    top: 100px;
+    left: 100px;
+    background-color: aqua;
+}

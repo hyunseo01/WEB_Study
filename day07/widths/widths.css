@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "socar"; /* 폰트 이름 (마음대로 지정 가능) */
+    src: url("AvenirLTProLight.otf") format("truetype");
+    font-family: "socar1"; /* 폰트 이름 (마음대로 지정 가능) */
+    src: url("AvenirLTProHeavy.otf") format("truetype");   
+}
+* {
+    font-family: "socar";
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: fit-content;
+    padding: 30px;
+    border-bottom: solid 1px gray;
+}
+.card{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    color: cornflowerblue;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: "socar1";
+}
+.info{
+    display: flex;
+    flex-direction: row;
+    gap: 45px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.text{
+    transition: all 0.5s;
+}
+.text:hover{
+    transform: scale(1.1);
+}

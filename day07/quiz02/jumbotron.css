@@ -1,0 +1,39 @@
+.jumbotron{
+height: 88vh;
+background-image: url(1.avif);
+object-fit: cover;
+color: white;
+}
+.jumbotron > .content{
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.jumbotron > .content > .sectiontitle{
+    font-size: 100px;
+    font-weight: 600;
+}
+.jumbotron > .content > .sectiontext{
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 135%;
+    margin-bottom: 20px;
+}
+.jumbotron > .content > .sectionbutton{
+    width: fit-content;
+    padding: 10px 160px;
+    background: none;
+    border: solid white 1px;
+    color: white;
+    transition: all 0.3s;
+    font-weight: 600;
+}
+.jumbotron > .content > .sectionbutton:hover{
+    background-color: white;
+    color: black;
+}
