@@ -1,0 +1,84 @@
+main{
+    display: flex;
+    width: 500px;
+    margin: 0 auto;
+}
+.profil_main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 90%;
+    border: 1px solid red;
+    margin: 40px;
+    padding: 50px 25px;
+}
+.profil_main--icon{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.profil_main--photo{
+    display: flex;
+    flex-direction: column;
+    object-fit: cover;
+    align-items: center;
+    gap: 20px;
+}
+.profil_main--photo> img{
+    width: 215px;
+    height: 215px;
+    border-radius: 100%;
+}
+.profil_button{
+    width: fit-content;
+    margin: 40px 0px;
+    padding: 10px 45px;
+    font-size: 11px;
+    font-weight: 600;
+    background-color: dodgerblue;
+    border: none;
+    box-shadow: dodgerblue 0px 20px 30px -10px;
+    border-radius: 30px;
+    color: white;
+}
+.page_info{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.page_info--set{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0px 70px;
+}
+.profil_circle{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 40px 70px 0px 70px;
+}
+.profil_circle > li{
+    width: 40px;
+    height: 40px;
+    border: none;
+    border-radius: 100%;
+}
+.blue{
+    background-color: aqua;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.red{
+    background-color: coral;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.green{
+    background-color: chartreuse;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.yello{
+    background-color: gold;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+

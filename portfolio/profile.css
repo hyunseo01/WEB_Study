@@ -1,0 +1,14 @@
+.profile{
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+}
+.profile_title{
+    width: 80%;
+    border-bottom: 1px solid #929292;
+    padding: 20px 0px;
+}
+

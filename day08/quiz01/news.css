@@ -1,0 +1,19 @@
+.news{
+    width: 100vw;
+    height: fit-content;
+}
+.news > main{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    padding-top: 15%;
+    padding-bottom: 15%;
+}
+.news > main >.title{
+    
+} 

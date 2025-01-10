@@ -1,0 +1,44 @@
+.area{
+    width: 100vw;
+    height: fit-content;
+    background-image: url(2.jpg);
+    object-fit: cover;
+}
+.area > main{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    padding-top: 15%;
+    color: white;
+    padding-bottom: 15%;
+}
+.area > main > .maintitle{
+    font-size: 70px;
+    font-weight: 900;
+    margin-bottom: 45px;
+}
+.area > main > .info{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    line-height: 1.3;
+    opacity: 0.5;
+    margin-bottom: 50px;
+}
+.area > main >button{
+    color: white;
+    width: fit-content;
+    height: fit-content;
+    background: none;
+    border-radius: 3px;
+    padding: 10px 150px;
+    border: solid white 0.5px;
+    transition: all 0.2s;
+}
+.area > main >button:hover{
+    background-color: white;
+    color: #000;
+}
+

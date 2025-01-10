@@ -1,0 +1,31 @@
+.card{
+    width: 400px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: black;
+    margin: 20px;
+    overflow: auto;
+    padding: 20px;
+}
+.title{
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
+}
+ul{
+    width: fit-content;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+button{
+    align-items: center;
+    width: 100px;
+    height: 50px;
+    background-color: white;
+    font-weight: 600;
+    border-radius: 30px;
+
+}
